@@ -124,6 +124,7 @@ a {
 
 @media (max-width: 900px) {
     .recense img {
+        margin: 0;
         width: 100%;
         float: none;
     }
