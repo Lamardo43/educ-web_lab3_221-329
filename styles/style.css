@@ -121,3 +121,10 @@ a {
 .container {
     margin-left: 2rem;
 }
+
+@media (max-width: 900px) {
+    .recense img {
+        width: 100%;
+        float: none;
+    }
+}
